@@ -1,0 +1,25 @@
+
+.nav-link, .navbar-brand{
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    align-content: space-between;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+}
+.navbar-gradient {
+    background: linear-gradient(to right, #FFB3BA, #FFDFBA, #FFFFBA, #BAFFC9, #BAE1FF);
+}  
+.navbar-nav{
+    align-content: space-between;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.container{
+    align-content: space-between;
+    justify-content: space-around;
+}
+.contador{
+    margin-left: 4px;
+}
