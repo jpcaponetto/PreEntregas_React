@@ -1,6 +1,6 @@
 
 .nav-link, .navbar-brand{
-    color:brown;
+    color:#240004;
     font-family: 'Times New Roman', Times, serif;
     align-content: space-between;
     margin: 0.5rem;
@@ -8,7 +8,7 @@
     display: flex;
 }
 .navbar-gradient {
-    background: linear-gradient(to right, #FFB3BA, #FFDFBA, #FFFFBA, #BAFFC9, #BAE1FF);
+    background: linear-gradient(75deg, rgba(36,0,4,1) 6%, rgba(254,207,206,1) 46%, rgba(110,3,3,1) 79%);
 }  
 .navbar-nav{
     align-content: space-between;

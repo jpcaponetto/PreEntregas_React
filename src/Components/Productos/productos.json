@@ -1,0 +1,130 @@
+[
+
+        {
+            "id": 1,
+            "titulo": "Sam4s 330",
+            "imagen": "https://santich.net/img/p/5/3/0/530-large_default.jpg",
+            "categoria":"Controladores Fiscales",
+            "category": "cf",
+            "descripcion": "Controlador fiscal homologado. NUEVA TECNOLOGÍA!",
+            "precio": 279900
+        },
+
+        {
+            "id": 2,
+            "titulo": "Hasar 6100",
+            "imagen": "https://santich.net/img/p/4/4/3/443-large_default.jpg",
+            "categoria":"Controladores Fiscales",
+            "category": "cf",
+            "descripcion": "HASAR R-HAS-6100-FAR Nueva caja registradora fiscal homologada de 2da. Generación.",
+            "precio": 289900
+        },
+        {
+            "id": 3,
+            "titulo": "Cifra 235",
+            "imagen": "https://santich.net/img/p/4/5/1/451-thickbox_default.jpg",
+            "categoria":"Calculadoras",
+            "category": "calculadoras",
+            "descripcion": "Calculadora para USO INTENSIVO, 12 dígitos, Bicolor, Papel 57mm, Visor luminoso, Alimentación 220Vca",
+            "precio": 66000
+        },
+        {
+            "id": 4,
+            "titulo": "Cifra 255-t",
+            "imagen": "https://santich.net/img/p/4/5/9/459-thickbox_default.jpg",
+            "categoria":"Calculadoras",
+            "category": "calculadoras",
+            "descripcion": "Calculadora USO INTENSIVO, IMPRESOR TERMICO de 12 dígitos, Rollo de papel 57mm.",
+            "precio": 77900
+        },
+        {
+            "id": 5,
+            "titulo": "Eli 190",
+            "imagen": "https://santich.net/img/p/7/6/6/766-thickbox_default.jpg",
+            "categoria": "Contadoras de Billetes",
+            "category": "contadoradebilletes",
+            "descripcion": "Contador de divisas profesional diseñado pensando en el usuario. Cuenta con sensores UV/MG. Los sensores ultravioleta y magnéticos son capaces de detectar una amplia gama de billetes falsificados.",
+            "precio": 55000
+        },
+        {
+            "id": 6,
+            "titulo": "Eli 1500",
+            "imagen": "https://santich.net/img/p/7/7/1/771-thickbox_default.jpg",
+            "categoria": "Contadoras de Billetes",
+            "category": "contadoradebilletes",
+             "descripcion": "Contador de divisas profesional diseñado para clientes exigentes. Software actualizable para reconocimiento de billetes falsos (Pesos Argentinos/Dólares/Euros).",
+            "precio": 325000
+        },
+        {
+            "id": 7,
+            "titulo": "Eli 2000",
+            "imagen": "https://santich.net/img/p/8/7/0/870-thickbox_default.jpg",
+            "categoria": "Contadoras de Billetes",
+            "category": "contadoradebilletes",    
+            "descripcion": "Contador de divisas profesional para clientes exigentes. Posee un software actualizable para reconocer billetes falsos (PESOS - DOLARES - EUROS).Clasificación por denominación, cara y orientación. Detección de falsificación CIS - UV - MG - IR", 
+            "precio": 421000
+        },
+        {
+            "id": 8,
+            "titulo": "EPSON TM-T900FA",
+            "imagen": "https://santich.net/img/p/1/0/6/106-thickbox_default.jpg",
+            "categoria":"Impresoras Fiscales",
+            "category": "impresorfiscal",
+            "descripcion": "La nueva impresora Epson TM-T900FA ofrece un diseño compacto, gran confiabilidad y excelente desempeño para el exigente uso del mercado.",
+            "precio": 289900
+        },
+        {
+            "id": 9,
+            "titulo": "HASAR SMH/PT-250F",
+            "imagen": "https://santich.net/img/p/3/6/7/367-thickbox_default.jpg",
+            "categoria": "Impresoras Fiscales",
+            "category": "impresorfiscal",
+            "descripcion": "Impresora fiscal Hasar SMH/PT-250F - SEGUNDA GENERACIÓN - Impresora fiscal de segunda generación homologada en el país. El SMH/PT-250F es un impresor térmico, de alta velocidad que contempla distintas modalidades para el ahorro de papel en la emisión de comprobantes, y su resguardo de información.",
+            "precio": 279900
+        },
+        {
+            "id": 10,
+            "titulo": "SAM4S ELLIX-40F",
+            "imagen": "https://santich.net/img/p/3/8/8/388-thickbox_default.jpg",
+            "categoria":"Impresoras Fiscales",
+            "category": "impresorfiscal",
+            "descripcion": "SAM4S ELLIX-40F IMPRESORA FISCAL HOMOLOGADO. Nueva Tecnología - Resolución General 4125-E. Rápida y silenciosa - utliza papel térmico de fácil colocación - comunicación Serie , USB y Ethernet (descarga automática de reportes a pendrive).Cumplimiento integral RG AFIP 3561/13",
+            "precio": 269900
+        },
+        {
+            "id": 11,
+            "titulo": "SYSTEL CROMA 15 KG",
+            "imagen": "https://santich.net/img/p/1/4/14-thickbox_default.jpg",
+            "categoria":"Balanzas",
+            "category": "balanzas",
+            "descripcion": "SYSTEL CROMA - Modelo PPI (precio, peso, importe) - Capacidad 15Kg x 5Gr. - 200 códigos programables. Batería con 12hs. de autonomia - Reportes totales por códigos - Conexión a PC, impresora de ticket o etiquetas.",
+            "precio": 65000
+        },
+        {
+            "id": 12,
+            "titulo": "SYSTEL CLIPSE 5 KG",
+            "imagen": "https://santich.net/img/p/4/2/42-thickbox_default.jpg",
+            "categoria": "Balanzas",
+            "category": "balanzas",
+            "descripcion": "SYSTEL CLIPSE - Modelo PPI (precio, peso, importe) - Capacidad 5Kg x 1Gr. - 200 códigos programables. Batería con 12hs. de autonomia - Reportes totales por códigos - Conexión a PC, impresora de ticket o etiquetas.",
+            "precio": 55000
+        },
+        {
+            "id": 13,
+            "titulo": "SYSTEL CLIPSE 15 KG",
+            "imagen": "https://santich.net/img/p/4/2/42-thickbox_default.jpg",
+            "categoria":"Balanzas",
+            "category": "balanzas",
+            "descripcion": "SYSTEL CLIPSE - Modelo PPI (precio, peso, importe) - Capacidad 15Kg x 5Gr.",
+            "precio": 65000
+        },
+        {
+            "id": 14,
+            "titulo": "SYSTEL CLIPSE 31 KG",
+            "imagen": "https://santich.net/img/p/4/2/42-thickbox_default.jpg",
+            "categoria":"Balanzas",
+            "category": "balanzas",
+            "descripcion": "SYSTEL CLIPSE - Modelo PPI (precio, peso, importe) - Capacidad 15Kg x 5Gr.",
+            "precio": 75000
+        }
+    ]
