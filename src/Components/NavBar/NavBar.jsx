@@ -19,7 +19,7 @@ function NavBar() {
     <Nav.Link className='menu-link'  href="/productos/calculadoras">Calculadoras</Nav.Link>
     <Nav.Link className='menu-link'  href="/productos/balanzas">Balanzas</Nav.Link>
     <Nav.Link className='menu-link' href="/nosotros">Nosotros</Nav.Link>
-    <Nav.Link className='menu-link' href="/cartwidget"><CartWidget /> <span className='contador'>0</span> </Nav.Link>
+    <Nav.Link className='menu-link' href="/cartwidget"><CartWidget /> <span className='contador'>0</span></Nav.Link>
   </Nav>
 </Container>
 </Navbar> 
