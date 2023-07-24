@@ -43,12 +43,13 @@
 
 .menu-link {
   text-decoration: none;
-  color: var(--clr-main-light);
+  color: black;
   font-size: 1.2rem;
 }
 
 .menu-link:hover {
-  text-decoration: underline;
+  color:bisque;
+  text-decoration:dashed;
 }
 
 .productos {
