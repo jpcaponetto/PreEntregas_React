@@ -26,7 +26,7 @@ function NavBar() {
                     <Link className="nav-link menu-link" to={"/productos/balanzas"}>Balanzas</Link>
                   </li>
                   <li className="nav-item">
-                    <Link className="nav-link menu-link" to={"/Nosotros"}>Nosotros</Link>
+                    <Link className="nav-link menu-link" to={"/productos/impresorfiscal"}>Impresoras Fiscales</Link>
                   </li>
                   <li><CartWidget /></li>
                 </ul>
