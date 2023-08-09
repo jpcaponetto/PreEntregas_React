@@ -51,6 +51,8 @@ titulo (string)
 
 ## GIF
 
+![WhatsApp Video 2023-08-09 at 19 37 44](https://github.com/jpcaponetto/PreEntregas_React/assets/86632183/cfa9b42a-171d-4596-b397-f45b8c641d5d)
+
 ## Agradecimientos:
 
 A mi familia y amigos por apoyarme en todo momento desde que comencé este camino, a todos los profesores y tutores de quienes vengo aprendiendo desde principio de año en los diferentes cursos.
