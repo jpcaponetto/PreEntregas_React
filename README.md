@@ -24,24 +24,22 @@ npm install
 npm start
 ```
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 
 🔧 React JS
 🔧 JavaScript
 🔧 HTML
 🔧 CSS
 
-### Librerias utilizadas
+## Librerias utilizadas
 
 🔧 React-router-dom: routing de la web
 🔧 Bootstrap: para el navbar
 🔧 Firebase: base de datos
 
-### Firebase / Firestore
+## Firebase / Firestore
 
 Cada item tiene estás caracteristicas
-
----
 
 categoria - string
 descripcion - string
@@ -49,10 +47,11 @@ imagen - string
 precio - number
 titulo - string
 
----
-
 ### Link del Proyecto
 
 ## Agradecimientos:
 
-A mi familia y amigos por apoyarme en todo momento desde que comencé este camino, a todos los profesores y tutores de quienes vengo aprendiendo desde principio de año en los diferentes cursos. Aún queda un gran recorrido por delante y bastantes metas. Gracias totales.
+A mi familia y amigos por apoyarme en todo momento desde que comencé este camino, a todos los profesores y tutores de quienes vengo aprendiendo desde principio de año en los diferentes cursos.
+Aún queda un gran recorrido por delante y bastantes metas, Roma no se construyó en un día.
+
+Gracias totales.
