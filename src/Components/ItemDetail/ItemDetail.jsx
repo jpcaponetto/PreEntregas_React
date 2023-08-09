@@ -9,8 +9,6 @@ const ItemDetail = ( {item} ) => {
   const {carrito, agregarAlCarrito} = useContext(CartContext);
   console.log(carrito)
 
-  
-  
   const [cantidad, setCantidad] = useState(1);
 
   const handleRestar = () => {
@@ -20,7 +18,6 @@ const ItemDetail = ( {item} ) => {
   const handleSumar = () => {
   cantidad < 10 && setCantidad(cantidad +1 )
   }
-
 
 
   return (
@@ -35,18 +32,7 @@ const ItemDetail = ( {item} ) => {
               <ItemCount cantidad={cantidad} handleSumar={handleSumar} handleRestar={handleRestar} 
               handleAgregar={() => { agregarAlCarrito(item, cantidad)}}  />
         </div>
-
       </div>
-
-    {/* <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src={item.imagen} />
-      <Card.Body>
-        <Card.Title> {item.titulo} - ${item.precio}</Card.Title>
-        <Card.Text>
-          {item.descripcion} 
-        </Card.Text>
-      </Card.Body>
-    </Card> */}
     </div>
   )
 }
