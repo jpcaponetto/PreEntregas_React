@@ -41,13 +41,15 @@ npm start
 
 Cada item tiene estás caracteristicas
 
-categoria - string
-descripcion - string
-imagen - string
-precio - number
-titulo - string
+categoria (string)
+descripcion (string)
+imagen (string)
+precio (number)
+titulo (string)
 
 ### Link del Proyecto
+
+## GIF
 
 ## Agradecimientos:
 
