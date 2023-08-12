@@ -55,7 +55,4 @@ titulo (string)
 
 ## Agradecimientos:
 
-A mi familia y amigos por apoyarme en todo momento desde que comencé este camino, a todos los profesores y tutores de quienes vengo aprendiendo desde principio de año en los diferentes cursos.
-Aún queda un gran recorrido por delante y bastantes metas, Roma no se construyó en un día.
-
-Gracias totales.
+A mi familia y amigos por apoyarme en todo momento desde que comencé este camino, a los profesores y tutores y a los compañeros con quienes me ha tocado compartir comisión.

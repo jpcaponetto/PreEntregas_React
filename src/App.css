@@ -27,7 +27,7 @@
   align-items:center;
   background-color: rgba(110,3,3,1);
   border-bottom: 3px solid black;
-  background: linear-gradient(0deg, rgba(195,8,8,1) 40%, rgba(14,14,14,1) 87%);
+  background: linear-gradient(0deg, rgba(110,3,3,1) 40%, rgba(14,14,14,1) 87%);
 }
 
 .logo {

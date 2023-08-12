@@ -6,6 +6,7 @@ import ItemDetailContainer from './Components/ItemDetailContainer/ItemDetailCont
 import {CartProvider} from './Context/CartContext';
 import Carrito from './Components/Carrito/Carrito';
 import Checkout from './Components/Checkout/Checkout';
+import Error404 from './Components/Error404/Error404';
 
 
 
@@ -25,6 +26,8 @@ function App() {
         <Route path={"/productos/:category"} element={<ItemListContainer />}/>
         <Route path={"/carrito"} element={<Carrito />}/>
         <Route path={"/checkout"} element={<Checkout />}/>
+        <Route path={"*"} element={<Error404 />}/>
+
       
       </Routes> 
       </BrowserRouter>
