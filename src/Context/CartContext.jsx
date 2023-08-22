@@ -18,6 +18,7 @@ export const CartProvider = ({children}) => {
       setCarrito(carritoModif);
     }
     
+    
 
     const agregarAlCarrito = (item, cantidad) => { 
 

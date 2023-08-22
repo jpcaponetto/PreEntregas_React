@@ -39,7 +39,7 @@ const Carrito = () => {
         carrito.length > 0 ?  
         <>
       <h2 className='text-center'>Total neto: ${precioTotal()}</h2>
-      <button className='agregar-al-carrito justify-content-center' onClick={handleVaciar}>Vaciar</button>
+      <button className='agregar-al-carrito justify-content-center' onClick={handleVaciar}>Vaciar Carrito</button>
        <Link to="/checkout" className='agregar-al-carrito text-center'>Finalizar compra </Link>
         </> :
             <h2>El Carrito está vacio</h2>
