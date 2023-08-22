@@ -27,7 +27,7 @@
   align-items:center;
   background-color: rgba(110,3,3,1);
   border-bottom: 3px solid black;
-  background: linear-gradient(0deg, rgba(110,3,3,1) 40%, rgba(14,14,14,1) 87%);
+  background: linear-gradient(0deg, rgba(110,3,3,1) 40%, rgb(209, 4, 4) 95%);
 }
 
 .logo {
@@ -46,6 +46,12 @@
   text-decoration: none;
   color: black;
   font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+}
+.nav-cart {
+  display: flex;
+  align-items:center;
 }
 
 .menu-link:hover {
@@ -68,6 +74,7 @@
   border-radius: 1rem;
   overflow: hidden;
   color: whitesmoke;
+  border: 1px solid grey;
 }
 
 .producto > div {
@@ -171,4 +178,10 @@
 
 .navbar-brand :hover{
   color: white
+}
+
+.error-message{
+  display: block;
+  color: red;
+  font-size: x-small;
 }
