@@ -27,7 +27,7 @@
   align-items:center;
   background-color: rgba(110,3,3,1);
   border-bottom: 3px solid black;
-  background: linear-gradient(0deg, rgba(110,3,3,1) 40%, rgb(209, 4, 4) 95%);
+  background: linear-gradient(0deg, rgb(220, 3, 3) 40%, rgb(194, 11, 11) 95%);
 }
 
 .logo {
@@ -58,8 +58,6 @@
   color:white !important;
   text-decoration:none;
 }
-
-
 
 .productos {
   display: grid;
